@@ -4,10 +4,10 @@
    - Pastikan Anda telah menginstal Python versi 3.13.1 di komputer Anda. Anda dapat mengunduhnya dari [python.org](https://www.python.org/).
 
 **2. Jalankan Program:**
-   - Simpan kode di atas dalam file Python, misalnya `sorting_program.py`.
+   - Simpan kode di atas dalam file Python, misalnya `index.py`.
    - Buka terminal atau command prompt, navigasikan ke folder tempat file disimpan, dan jalankan program dengan perintah:
      ```bash
-     python sorting_program.py
+     python index.py
      ```
 
 **3. Menu Utama:**
